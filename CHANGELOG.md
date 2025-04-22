@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier/compare/v15.6.3...15.x)
+## [Unreleased](https://github.com/laravel/cashier/compare/v15.6.4...15.x)
+
+## [v15.6.4](https://github.com/laravel/cashier/compare/v15.6.3...v15.6.4) - 2025-04-22
+
+* Update logo by [@iamdavidhill](https://github.com/iamdavidhill) in https://github.com/laravel/cashier-stripe/pull/1750
+* Remove full stop from command description by [@dwightwatson](https://github.com/dwightwatson) in https://github.com/laravel/cashier-stripe/pull/1754
+* Fix calculating tax rates by [@driesvints](https://github.com/driesvints) in https://github.com/laravel/cashier-stripe/pull/1755
 
 ## [v15.6.3](https://github.com/laravel/cashier/compare/v15.6.2...v15.6.3) - 2025-04-01
 
